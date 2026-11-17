@@ -1,0 +1,3 @@
+[submodule "parker_turntable"]
+	path = parker_turntable
+	url = https://github.com/anikk94/parker_turntable.git

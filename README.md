@@ -29,3 +29,12 @@
       python Keyence_fileRenaming.py
       ```
 
+
+
+
+
+# Resources
+canon camera python control
+```
+https://github.com/fmargall/pyedsdk
+```
